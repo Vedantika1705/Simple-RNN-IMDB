@@ -35,6 +35,15 @@ The main goal of this project is to understand **text preprocessing, sequence pa
 | I loved this movie it was amazing | Positive |
 | The movie was boring and very slow | Positive (model limitation) |
 
+## 📈 Training Visualizations
+
+### Training vs Validation Accuracy
+![Accuracy Plot](images/Accuracy.png)
+
+### Training vs Validation Loss
+![Loss Plot](images/loss.png)
+
+
 ## ⚠️ Model Limitations
 
 - This project uses a Simple RNN, which has limited ability to understand full sentence context.
