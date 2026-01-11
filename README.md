@@ -28,6 +28,20 @@ The main goal of this project is to understand **text preprocessing, sequence pa
 > This project focuses on **learning RNN concepts** rather than achieving state-of-the-art accuracy.
 
 ---
+## 🔍 Example Predictions
+
+| Review | Predicted Sentiment |
+|------|-------------------|
+| I loved this movie it was amazing | Positive |
+| The movie was boring and very slow | Positive (model limitation) |
+
+## ⚠️ Model Limitations
+
+- This project uses a Simple RNN, which has limited ability to understand full sentence context.
+- Some negative reviews may be misclassified as positive.
+- The focus of this project is on understanding RNN fundamentals, not achieving production-level accuracy.
+- Advanced models like LSTM or GRU can improve performance.
+
 
 ## 🛠 Tech Stack
 - Python
