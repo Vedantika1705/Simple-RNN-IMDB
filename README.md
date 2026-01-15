@@ -60,9 +60,4 @@ The main goal of this project is to understand **text preprocessing, sequence pa
 
 ---
 
-## 🚀 How to Run
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/Vedantika1705/Simple-RNN-IMDB.git
-cd Simple-RNN-IMDB
